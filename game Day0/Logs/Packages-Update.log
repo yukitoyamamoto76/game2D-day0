@@ -47,3 +47,14 @@ The following packages were 更新済:
   com.unity.2d.animation をバージョン 3.1.1 から 3.2.2 へ
   com.unity.2d.psdimporter をバージョン 2.1.0 から 2.1.4 へ
   com.unity.2d.spriteshape をバージョン 3.0.8 から 3.0.11 へ
+
+=== Sat Jun  6 14:27:44 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were 追加済:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.package-manager-ui@2.0.3
+  com.unity.purchasing@2.0.3
